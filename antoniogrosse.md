@@ -11,12 +11,10 @@ Analista de Sistemas | Desenvolvedor SQL.
 ## Habilidades
 <div> 
 <img align="center" alt="-SQL" height="40" width="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
-<img align="center" alt="-SQL" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"/>
-<img align="center" alt="-SQL" height="40" width="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"/>
-<img align="center" alt="-SQL" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/python-3.svg"/>
+<img align="center" alt="-C#" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"/>
+<img align="center" alt="-JAVA" height="40" width="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"/>
+<img align="center" alt="-Python" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/python-3.svg"/>
 </div>
 
 ## GitHub Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antoniogrosse&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=starts)
-
-
